@@ -1,0 +1,28 @@
+# Binários e Objetos Compilados
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+
+# Diretórios de Build
+bin/
+obj/
+build/
+dist/
+
+# Configurações de IDEs e Editores
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
